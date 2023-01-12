@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Abhishek30092001
 - 👀 I’m interested in ...web development
+- 👍 I have a good Understanding of Python,Django,RestAPI, Postgres,Mysql
 - 🌱 I’m currently learning ...javascript,react,Nodejs
 - 💞️ I’m looking to collaborate on ...Website design
 -
